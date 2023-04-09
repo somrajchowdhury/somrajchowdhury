@@ -23,8 +23,8 @@ I'm a Computer Science Engineer and a passionate backend developer from India.
 Currently working with _L&T Technology Services (LTTS)_ as Senior Engineer.
 
 At work I use:<br/><br/>&nbsp;&nbsp;&nbsp;
-<a href=""><img title="Python3" src="https://i.imgur.com/FTDspiU.png" width="30px" /></a>&nbsp;&nbsp;&nbsp;
-<a href=""><img title="Django" src="https://i.imgur.com/hs49nUk.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="Python3" src="https://i.imgur.com/FTDspiU.png" width="30px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="Django" src="https://i.imgur.com/hs49nUk.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Bootstrap" src="https://i.imgur.com/GMm2uxg.png" width="40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Jenkins CI/CD" src="https://i.imgur.com/OixIErB.png" width="30px" height="35px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Amazon Web Services (AWS)" src="https://i.imgur.com/IVi96vy.png" width="55px" /></a>&nbsp;&nbsp;&nbsp;
