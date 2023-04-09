@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somraj</h1>
+<h1>Hi 👋, I'm Somraj</h1>
 
 I'm a computer science engineer and a passionate backend developer from India.
 
