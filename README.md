@@ -46,7 +46,7 @@ Outside of work, catch me for a quick best of 3 in the badminton 🏸 court!
 </a>
 
 <a href="mailto:chowdhury.somraj08@gmail.com">
-  <img align="left" alt="Somraj's email" width="30px" target="_blank" src="https://i.imgur.com/QRLBK4v.png" />
+  <img align="left" alt="Somraj's email" width="30px" target="_blank" src="https://i.imgur.com/MHr6kO2.png" />
 </a>
 
 <br/><br/>
