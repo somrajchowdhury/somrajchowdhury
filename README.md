@@ -25,7 +25,7 @@ At work I use:<br/><br/>
 
 ---
 
-Outside of work, catch me for a quick best of 3 in the badminton 🏸 court!
+Outside of work, catch me for a quick best of 3 in the badminton 🏸 court!<br/><br/>
 
 <a href="https://www.linkedin.com/in/somrajchowdhury/">
   <img align="left" alt="Somraj's LinkedIn" width="30px" target="_blank" src="https://github.com/somrajchowdhury/personal-website-1/blob/main/images/linkedin-logo.png" />
@@ -46,8 +46,3 @@ Outside of work, catch me for a quick best of 3 in the badminton 🏸 court!
 <a href="mailto:chowdhury.somraj08@gmail.com">
   <img align="left" alt="Somraj's email" width="30px" target="_blank" src="https://i.imgur.com/MHr6kO2.png" />
 </a>
-
-<br/>
-<hr/>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=somrajchowdhury.visitor-badge)
