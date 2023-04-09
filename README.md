@@ -2,7 +2,7 @@
 
 I'm a computer science engineer and a passionate backend developer from India.
 
-Currently working with _[L&T Technology Services (LTTS)](https://www.ltts.com/)_ as Senior Engineer.
+Working with _[L&T Technology Services (LTTS)](https://www.ltts.com/)_ as Senior Engineer.
 
 At work I use:<br/><br/>
 <a href="#"><img title="Python3" src="https://i.imgur.com/FTDspiU.png" width="30px" /></a>&nbsp;&nbsp;&nbsp;
