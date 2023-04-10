@@ -13,6 +13,8 @@ At work I use:<br/><br/>
 <a href="#"><img title="Git CLI" src="https://i.imgur.com/a8cNvAW.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Jira Software" src="https://i.imgur.com/lXwD8nX.png" width="35px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Ubuntu OS" src="https://i.imgur.com/c9CLxDQ.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="SQLite" src="https://i.imgur.com/T3x35xd.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="PostgreSQL" src="https://i.imgur.com/JXFr6DI.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
 
 ---
 
