@@ -14,7 +14,7 @@ At work I use:<br/><br/>
 <a href="#"><img title="Jira Software" src="https://i.imgur.com/lXwD8nX.png" width="35px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Ubuntu OS" src="https://i.imgur.com/c9CLxDQ.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="SQLite" src="https://i.imgur.com/T3x35xd.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="PostgreSQL" src="https://i.imgur.com/JXFr6DI.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="PostgreSQL" src="https://i.imgur.com/JXFr6DI.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -27,7 +27,7 @@ At work I use:<br/><br/>
 
 ---
 
-Outside of work, catch me for a quick best of 3 in the badminton 🏸 court!<br/><br/>
+Outside of work, catch me for a quick best of 3 in the badminton court! 🏸 <br/><br/>
 
 <a href="https://www.linkedin.com/in/somrajchowdhury/">
   <img align="left" alt="Somraj's LinkedIn" width="30px" target="_blank" src="https://github.com/somrajchowdhury/personal-website-1/blob/main/images/linkedin-logo.png" />
