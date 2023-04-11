@@ -30,21 +30,21 @@ At work I use:<br/><br/>
 Outside of work, catch me for a quick best of 3 in the badminton court! 🏸 <br/><br/>
 
 <a href="https://www.linkedin.com/in/somrajchowdhury/">
-  <img align="left" alt="Somraj's LinkedIn" width="30px" target="_blank" src="https://github.com/somrajchowdhury/personal-website-1/blob/main/images/linkedin-logo.png" />
+  <img align="left" alt="Somraj's LinkedIn" width="20px" target="_blank" src="https://github.com/somrajchowdhury/personal-website-1/blob/main/images/linkedin-logo.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/12483799/somraj-chowdhury">
-  <img align="left" alt="Somraj's Stackoverflow" width="30px" target="_blank" src="https://i.imgur.com/BbpIsBO.png" />
+  <img align="left" alt="Somraj's Stackoverflow" width="20px" target="_blank" src="https://i.imgur.com/BbpIsBO.png" />
 </a>
 
 <a href="https://somrajchowdhury.com/">
-  <img align="left" alt="Somraj's Website" width="30px" target="_blank" src="https://i.imgur.com/SMqmoe9.png" />
+  <img align="left" alt="Somraj's Website" width="20px" target="_blank" src="https://i.imgur.com/SMqmoe9.png" />
 </a>
 
 <a href="https://www.instagram.com/_somraj_chowdhury_/">
-  <img align="left" alt="Somraj's Instagram" width="30px" target="_blank" src="https://i.imgur.com/QRLBK4v.png" />
+  <img align="left" alt="Somraj's Instagram" width="20px" target="_blank" src="https://i.imgur.com/QRLBK4v.png" />
 </a>
 
 <a href="mailto:chowdhury.somraj08@gmail.com">
-  <img align="left" alt="Somraj's email" width="30px" target="_blank" src="https://i.imgur.com/MHr6kO2.png" />
+  <img align="left" alt="Somraj's email" width="20px" target="_blank" src="https://i.imgur.com/MHr6kO2.png" />
 </a>
