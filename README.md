@@ -15,7 +15,8 @@ At work I use:<br/><br/>
 <a href="#"><img title="Ubuntu OS" src="https://i.imgur.com/c9CLxDQ.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="SQLite" src="https://i.imgur.com/T3x35xd.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="PostgreSQL" src="https://i.imgur.com/JXFr6DI.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img title="Ansible" src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="33px" /></a>
+<a href="#"><img title="Ansible" src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img title="Celery" src="https://img.stackshare.io/service/1075/celery.png" width="33px" /></a>
 
 ---
 
