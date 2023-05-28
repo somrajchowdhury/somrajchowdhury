@@ -17,6 +17,7 @@ At work I use:<br/><br/>
 <a href="#"><img title="PostgreSQL" src="https://i.imgur.com/JXFr6DI.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Ansible" src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="33px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img title="Celery" src="https://img.stackshare.io/service/1075/celery.png" width="33px" /></a>
+<a href="#"><img title="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" width="33px" /></a>
 
 ---
 
